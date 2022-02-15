@@ -12,7 +12,14 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+## Home :
+![](home01.png)
+## Story Line :
+![](storyline.png)
+## Media :
+![](media.png)
+## Info :
+![](info.png)
 
 
 ## Result:
